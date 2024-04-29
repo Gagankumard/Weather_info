@@ -9,9 +9,6 @@ Landing Page:
 Actual Weather:
 ![screenshot](./assets/screenshot2.png)
 
-5-Day Forecast:
-![screenshot](./assets/screenshot3.png)
-
 
 Additional description about the project and its features.
 
